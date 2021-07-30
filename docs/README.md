@@ -1,12 +1,12 @@
-# Orange Design System documentation for Android
+# Documentation for Android
 
 ## Introduction
 
-Orange Design System for Android is based on [Material Design](https://material.io/) from Google
+System for Android is based on [Material Design](https://material.io/) from Google
 
 ## How to use it
 
-In order to apply Orange Design System to your Android application please follow the guideline:
+In order to apply Design System to your Android application please follow the guideline:
 [Getting Started](./getting-started.md)
 
 ## Components
