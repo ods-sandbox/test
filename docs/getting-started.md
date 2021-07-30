@@ -1,10 +1,10 @@
-# Getting started with Orange Design System for Android
+# Getting started with Design System for Android
 
 ## Instructions
 
 ### 1. Depend on our library
 
-Orange Design System for Android is available through Google's Maven Repository.
+Design System for Android is available through Google's Maven Repository.
 To use it:
 
 1.  Open the `build.gradle` file for your application.
@@ -25,7 +25,7 @@ To use it:
     ```groovy
       dependencies {
         // ...
-        implementation 'com.orange.ods.xxx:yyy:<version>'
+        implementation 'com.design.xxx:yyy:<version>'
         // ...
       }
     ```
