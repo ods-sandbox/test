@@ -1,10 +1,9 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
-remote_theme: ods-sandbox/ods-jekyll-theme
+remote_theme: ods-sandbox/minima
 minima:
   skin: orange
 
