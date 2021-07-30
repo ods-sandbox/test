@@ -3,4 +3,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-remote_theme: daattali/beautiful-jekyl
+remote_theme: daattali/beautiful-jekyll
