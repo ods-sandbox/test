@@ -4,3 +4,4 @@ relative_links:
   enabled: true
   collections: true
 remote_theme: Leo38/beautiful-jekyll
+
