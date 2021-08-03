@@ -1,3 +1,10 @@
+---
+layout: detail
+title: Button
+description: Button description
+---
+
+
 # Button
 
 ## Intro
