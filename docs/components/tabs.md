@@ -1,3 +1,9 @@
+---
+layout: detail
+title: Tabs
+description: Tabs description
+---
+
 # Tabs
 
 ## Intro
