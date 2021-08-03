@@ -1,3 +1,10 @@
+---
+layout: detail
+title: Getting page
+description: Getting page description
+---
+
+
 # Getting started with Design System for Android
 
 ## Instructions
