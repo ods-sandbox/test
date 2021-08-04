@@ -56,7 +56,6 @@ style `@style/Widget.Orange.Button.Text` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Text button"
@@ -71,7 +70,6 @@ style `@style/Widget.Orange.Button.Text.Icon` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Text button with icon"
@@ -92,7 +90,6 @@ style `@style/Widget.Orange.Button.Outlined` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Outlined button"
@@ -107,7 +104,6 @@ style `@style/Widget.Orange.Button.Outlined.Icon` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Outlined button with icon"
@@ -130,7 +126,6 @@ style `@style/Widget.Orange.Button.Contained` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contained button"
@@ -154,7 +149,6 @@ style `@style/Widget.Orange.Button.Contained.Icon` on your `Button` layout
 In the layout:
 
 ```xml
-
 <Button android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contained button with icon"
@@ -182,7 +176,6 @@ API and source code:
 In the layout:
 
 ```xml
-
 <com.google.android.material.button.MaterialButtonToggleGroup
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
@@ -209,7 +202,6 @@ style `@style/Widget.Orange.Button.Outlined.IconOnly` on your `Button` layout
 In the layout:
 
 ```xml
-
 <com.google.android.material.button.MaterialButtonToggleGroup
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
