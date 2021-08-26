@@ -6,5 +6,5 @@ description: Image test
 
 # Image
 
-!["Sample image"](assets/sample.png)
+!["Sample image"](assets/image.png)
 
